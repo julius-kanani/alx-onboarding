@@ -1,0 +1,16 @@
+﻿Pseudo code for calculate the sum of squares of given input of numbers
+
+START
+SET n to 0
+SET sum to 0
+READ n
+FOR every number BETWEEN 1 AND n
+	SET square to every number multiplied by itself
+	SET sum to sum + the square arrived above
+END FOR LOOP
+WRITE sum
+STOP
+
+
+
+
